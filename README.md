@@ -10,3 +10,4 @@ The game also includes two computer-player modes. The Random AI selects availabl
 
 The project demonstrates practical applications of Object-Oriented Programming, event handling, GUI development, randomization, game logic, and basic AI decision-making in Java.
  
+The project was developed collaboratively with my classmate Jana Abdelaziz, combining our efforts in implementing the game logic, user interface, AI features, and overall game experience.
