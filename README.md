@@ -1,4 +1,4 @@
-# Tic-Tac-Toe with Bursa Trivia & Lucky Spinner
+ # Tic-Tac-Toe with Bursa Trivia & Lucky Spinner
 
 Tic-Tac-Toe with Bursa Trivia & Lucky Spinner is an interactive Java-based desktop game that combines the classic Tic-Tac-Toe experience with trivia questions about Bursa and a fun pre-game lucky wheel.
 
