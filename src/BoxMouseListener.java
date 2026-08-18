@@ -2,7 +2,7 @@
 
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
-
+ 
 public class BoxMouseListener extends MouseAdapter {
     private final Main gameFrame;
     private final int boxIndex;
